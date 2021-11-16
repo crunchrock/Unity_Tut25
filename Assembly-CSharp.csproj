@@ -54,6 +54,7 @@
      <Compile Include="Assets\Optimization\Scripts\OptimManager.cs" />
      <Compile Include="Assets\Optimization\Scripts\OptimUnit.cs" />
      <Compile Include="Assets\Scripts\TransporterUnit.cs" />
+     <Compile Include="Assets\Scripts\ProductivityUnit.cs" />
     <Reference Include="UnityEngine">
         <HintPath>C:/Program Files/Unity/Hub/Editor/2020.3.2f1/Editor/Data/Managed/UnityEngine/UnityEngine.dll</HintPath>
     </Reference>
